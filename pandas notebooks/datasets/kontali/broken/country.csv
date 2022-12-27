@@ -1,0 +1,283 @@
+country_code,Country,Land,Market,Market2,Market3
+AD,Andorra,Andorra,Other Europe,Other Extra EU,Other
+AE,United Arab Emirates,De forente Arabiske Emirater,Asia,Other Extra EU,Other
+AF,Afghanistan,Afghanistan,Asia,Other Extra EU,Other
+AG,Antigua and Barbuda,Antigua og Barbuda,North-America,Other Extra EU,Other
+AI,Anguilla,Anguilla,North-America,Other Extra EU,Other
+AL,Albania,Albania,Other Europe,Other Extra EU,Other
+AM,Armenia,Armenia,Other Europe,Other Extra EU,Other
+AN,Netherlands Antilles,De Nederlandske Antillene,North-America,Other Extra EU,Other
+AO,Angola,Angola,Africa,Other Extra EU,Other
+AQ,Antarctica,Antarktis,Other,Other Extra EU,Other
+AR,Argentina,Argentina,South-America,Other Extra EU,Other
+AS,American Samoa,Amerikanske Samoa,Other,Other Extra EU,Other
+ASI,Unknown Asia,Ukjent Asia,,,
+AT,Austria,Østerrike,EU,Other EU,EU+UK
+AU,Australia,Australia,Oceania,Other Extra EU,Other
+AW,Aruba,Aruba,North-America,Other Extra EU,Other
+AX,Aland Islands,Åland,Other Europe,Other Extra EU,Other
+AZ,Azerbaijan,Aserbajdsjan,Other Europe,Other Extra EU,Other
+BA,Bosnia and Herzegovina,Bosnia-Hercegovina,Other Europe,Other Extra EU,Other
+BB,Barbados,Barbados,North-America,Other Extra EU,Other
+BD,Bangladesh,Bangladesh,Asia,Other Extra EU,Other
+BE,Belgium,Belgia,EU,Other EU,EU+UK
+BF,BURKINA FASO,BURKINA FASO,Africa,Other Extra EU,Other
+BG,Bulgaria,Bulgaria,EU,Other EU,EU+UK
+BH,Bahrain,Bahrain,Asia,Other Extra EU,Other
+BI,Burundi,Burundi,Africa,Other Extra EU,Other
+BJ,BENIN,Benin,Africa,Other Extra EU,Other
+BL,Saint-Barthélemy,Saint-Barthélemy,Other,Other Extra EU,Other
+BM,Bermuda,Bermuda,North-America,Other Extra EU,Other
+BN,Brunei Darussalam,Brunei,Asia,Other Extra EU,Other
+BO,Bolivia,Bolivia,South-America,Other Extra EU,Other
+BQ,Bonaire,Bonaire,Other Europe,Other Extra EU,Other
+BR,Brazil,Brasil,South-America,Other Extra EU,Other
+BS,Bahamas,Bahamas,North-America,Other Extra EU,Other
+BT,Bhutan,Bhutan,Asia,Other Extra EU,Other
+BW,Botswana,Botswana,Africa,Other Extra EU,Other
+BY,Belarus,Hviterussland,Other Europe,Other Extra EU,Other
+BZ,Belize,Belize,North-America,Other Extra EU,Other
+CA,Canada,Canada,North-America,Canada,Other
+CC,Cocos Islands,Kokosøyene,Asia,Other Extra EU,Other
+CD,Congo, Democratic republic of the,Kongo, Demokratiske republikk,Africa,Other Extra EU,Other
+CEU,Ceuta,Ceuta,Africa,Other Extra EU,Other
+CF,Central African Republic,Sentr.afrik. Rep.,Africa,Other Extra EU,Other
+CG,Congo, Republic of,Kongo-Brazzaville, Republik,Africa,Other Extra EU,Other
+CH,Switzerland,Sveits,Other Europe,Other Extra EU,Other
+CI,Ivory Coast,Elfenbeinskysten,Africa,Other Extra EU,Other
+CK,Cook Islands,Cook Islands,Oceania,Other Extra EU,Other
+CL,Chile,Chile,South-America,Other Extra EU,Other
+CM,Cameroon,Kamerun,Africa,Other Extra EU,Other
+CN,China,Kina,Asia,Other Extra EU,Other
+CO,Colombia,Colombia,South-America,Other Extra EU,Other
+CR,Costa Rica,Costa Rica,North-America,Other Extra EU,Other
+CS,Serbia and Montenegro,Serbia og Montenegro,Other Europe,Other Extra EU,Other
+CU,Cuba,Cuba,North-America,Other Extra EU,Other
+CV,Cape Verde,Kapp Verde,Africa,Other Extra EU,Other
+CW,Curacao,Curacao,North-America,Other Extra EU,Other
+CX,Christmas Island,Christmasøya,Oceania,Other Extra EU,Other
+CY,Cyprus,Kypros,EU,Other EU,EU+UK
+CZ,Czech republic,Tsjekkia,EU,Other EU,EU+UK
+DE,Germany,Tyskland,EU,Germany,EU+UK
+DH,9993 Other countries,9993 Øvrige land,Other,Other Extra EU,Other
+DJ,Djibouti,Djibouti,Africa,Other Extra EU,Other
+DK,Denmark,Danmark,EU,Other EU,EU+UK
+DM,Dominica,Dominica,North-America,Other Extra EU,Other
+DO,Dominican Republic,Den Dominikanske Republikk,North-America,Other Extra EU,Other
+DU,9990 Other countries,9990 Øvrige land,Other,Other Extra EU,Other
+DZ,Algeria,Algerie,Africa,Other Extra EU,Other
+EC,Ecuador,Ecuador,South-America,Other Extra EU,Other
+EE,Estonia,Estland,EU,Other EU,EU+UK
+EG,Egypt,Egypt,Africa,Other Extra EU,Other
+EH,Western Sahara,Vest-Sahara,Africa,Other Extra EU,Other
+ER,Eritrea,Eritrea,Africa,Other Extra EU,Other
+ES,Spain,Spania,EU,Spain,EU+UK
+ET,Ethiopia,Etiopia,Africa,Other Extra EU,Other
+EU,EU,EU,,,
+EU25,EU,EU,EU,Other EU,EU+UK
+EU25_EXTRA,EU EXTRA,EU EXTRA,,,
+EU25_INTRA,EU INTRA,EU INTRA,,,
+EUE,N.det.Extra,N.det.Extra,Other,Other Extra EU,Other
+EUI,N.det.Intra,N.det.Intra,EU,Other EU,EU
+FI,Finland,Finland,EU,Other EU,EU+UK
+FJ,Fiji,Fiji,Oceania,Other Extra EU,Other
+FK,Falkland Islands,Falklands øyene,South-America,Other Extra EU,Other
+FM,Federated States of Micronesia,Mikronesiaføderasjonen,Oceania,Other Extra EU,Other
+FO,Faroe Islands,Færøyene,Other Europe,Other Extra EU,Other
+FR,France,Frankrike,EU,France,EU+UK
+GA,Gabon,Gabon,Africa,Other Extra EU,Other
+GB,United Kingdom,Storbritannia,Other Europe,United Kingdom,EU+UK
+GD,Grenada,Grenada,North-America,Other Extra EU,Other
+GE,Georgia,Georgia,Other Europe,Other Extra EU,Other
+GF,French Guiana,Fransk Guyana,South-America,Other Extra EU,Other
+GH,Ghana,Ghana,Africa,Other Extra EU,Other
+GI,Gibraltar,Gibraltar,Other Europe,Other Extra EU,Other
+GL,Greenland,Gronland,North-America,Other Extra EU,Other
+GM,Gambia,Gambia,Africa,Other Extra EU,Other
+GN,Guinea,Guinea,Africa,Other Extra EU,Other
+GP,Guadeloupe,Guadeloupe,North-America,Other Extra EU,Other
+GQ,Republic of EQUATORIAL GUINEA,Ekvatorial-Guinea,Africa,Other Extra EU,Other
+GR,Greece,Hellas,EU,Other EU,EU+UK
+GT,Guatemala,Guatemala,North-America,Other Extra EU,Other
+GU,Guam,Guam,Oceania,Other Extra EU,Other
+GW,Guinea-Bissau,Guinea-Bissau,Africa,Other Extra EU,Other
+GY,Guyana,Guyana,South-America,Other Extra EU,Other
+HA,9991 Other countries,9991 Øvrige land,Other,Other Extra EU,Other
+HK,Hong Kong,Hong Kong,Asia,Other Extra EU,Other
+HN,Honduras,Honduras,North-America,Other Extra EU,Other
+HR,Croatia,Kroatia,EU,Other EU,EU+UK
+HT,Haiti,Haiti,North-America,Other Extra EU,Other
+HU,Hungary,Ungarn,EU,Other EU,EU+UK
+ID,Indonesia,Indonesia,Asia,Other Extra EU,Other
+IE,Ireland,Irland,EU,Other EU,EU+UK
+IL,Israel,Israel,Asia,Other Extra EU,Other
+IM,Isle of Man,Isle of Man,,,
+IN,India,India,Asia,Other Extra EU,Other
+INTW,International Waters,Internasjonale farvann,,,
+IO,British Indian Ocean Territory,British Indian Oc Tr,Asia,Other Extra EU,Other
+IQ,Iraq,Irak,Asia,Other Extra EU,Other
+IR,Iran,Iran,Asia,Other Extra EU,Other
+IS,Iceland,Island,Other Europe,Other Extra EU,Other
+IT,Italy,Italia,EU,Italy,EU+UK
+JE,Jersey,Jersey,Other,Other Extra EU,Other
+JM,Jamaica,Jamaica,North-America,Other Extra EU,Other
+JO,Jordan,Jordan,Asia,Other Extra EU,Other
+JP,Japan,Japan,Asia,Other Extra EU,Japan
+KE,Kenya,Kenya,Africa,Other Extra EU,Other
+KG,Kyrgyzstan,Kirgisia,Asia,Other Extra EU,Other
+KH,Cambodia,Kambodsja,Asia,Other Extra EU,Other
+KI,Kiribati,Kiribati,Oceania,Other Extra EU,Other
+KM,Comoros,Comoros,Africa,Other Extra EU,Other
+KN,St. Kitts and Nevis,St. Kitts og Nevis,North-America,Other Extra EU,Other
+KP,North Korea,Nord-Korea,Asia,Other Extra EU,Other
+KR,South Korea,Sør-Korea,Asia,Other Extra EU,Other
+KW,Kuwait,Kuwait,Asia,Other Extra EU,Other
+KY,Cayman Islands,Caymanoyene,North-America,Other Extra EU,Other
+KZ,Kazakhstan,Kasakhstan,Asia,Other Extra EU,Other
+LA,Laos,Laos,Asia,Other Extra EU,Other
+LB,Lebanon,Libanon,Asia,Other Extra EU,Other
+LC,St. Lucia,St. Lucia,North-America,Other Extra EU,Other
+LI,Liechtenstein,Liechtenstein,Other Europe,Other Extra EU,Other
+LK,Sri Lanka,Sri Lanka,Asia,Other Extra EU,Other
+LR,Liberia,Liberia,Africa,Other Extra EU,Other
+LS,Lesotho,Lesotho,Africa,Other Extra EU,Other
+LT,Lithuania,Litauen,EU,Other EU,EU+UK
+LU,Luxembourg,Luxembourg,EU,Other EU,EU+UK
+LV,Latvia,Latvia,EU,Other EU,EU+UK
+LY,Libya,Libya,Africa,Other Extra EU,Other
+MA,Morocco,Marokko,Africa,Other Extra EU,Other
+MC,Monaco,Monaco,Other Europe,Other Extra EU,Other
+MD,Moldova,Moldova,Other Europe,Other Extra EU,Other
+ME,Montenegro,Montenegro,Other Europe,Other Extra EU,Other
+MF,St. Martin (French part),St. Martin (Fransk),Other,Other Extra EU,Other
+MG,Madagascar,Madagaskar,Africa,Other Extra EU,Other
+MH,Marshall Islands,Marshalløyene,Oceania,Other Extra EU,Other
+MK,Macedonia,Makedonia,Other Europe,Other Extra EU,Other
+ML,Mali,Mali,Africa,Other Extra EU,Other
+MM,Myanmar,Myanmar,Asia,Other Extra EU,Other
+MN,MONGOLIA,,Asia,Other Extra EU,Other
+MO,Macau,Macao,Asia,Other Extra EU,Other
+MP,Northern MARIANA ISLANDS (USA),,Other,Other Extra EU,Other
+MQ,Martinique,Martinique,North-America,Other Extra EU,Other
+MR,MAURITANIA,Mauritania,Africa,Other Extra EU,Other
+MS,Montserrat,Montserrat,North-America,Other Extra EU,Other
+MT,Malta,Malta,EU,Other EU,EU+UK
+MU,Mauritius,Mauritius,Africa,Other Extra EU,Other
+MV,MALDIVES,Maldivene,Asia,Other Extra EU,Other
+MW,Malawi,Malawi,Africa,Other Extra EU,Other
+MX,Mexico,Mexico,North-America,Other Extra EU,Other
+MY,Malaysia,Malaysia,Asia,Other Extra EU,Other
+MZ,Mozambique,Mosambik,Africa,Other Extra EU,Other
+NA,Namibia,Namibia,Africa,Other Extra EU,Other
+NC,New Caledonia,Ny-Caledonia,Oceania,Other Extra EU,Other
+NE,Niger,Niger,Africa,Other Extra EU,Other
+NF,Norfolk Island,Norfolkøya,Other,Other Extra EU,Other
+NG,Nigeria,Nigeria,Africa,Other Extra EU,Other
+NI,Nicaragua,Nicaragua,North-America,Other Extra EU,Other
+NL,Netherlands,Nederland,EU,Netherlands,EU+UK
+NO,Norway,Norge,Other Europe,Other Extra EU,Other
+NP,Nepal,Nepal,Asia,Other Extra EU,Other
+NR,Nauru,Nauru,Oceania,Other Extra EU,Other
+NU,Niue,Niue,Asia,Other Extra EU,Other
+NZ,New Zealand,New Zealand,Oceania,Other Extra EU,Other
+OM,Oman,Oman,Asia,Other Extra EU,Other
+OS,South Ossetia,Sør Ossetia,Other Europe,Other Extra EU,Other
+OT,Other,Annet,Other,Other Extra EU,Other
+OTH_EUR,Other countries, Europe,Øvr. Europa,Other Europe,Other Extra EU,Other
+PA,Panama,Panama,North-America,Other Extra EU,Other
+PE,Peru,Peru,South-America,Other Extra EU,Other
+PF,French Polynesia,Fransk Polynesia,Oceania,Other Extra EU,Other
+PG,Papua New Guinea,Papua Ny Guinea,Oceania,Other Extra EU,Other
+PH,Philippines,Filippinene,Asia,Other Extra EU,Other
+PK,Pakistan,Pakistan,Asia,Other Extra EU,Other
+PL,Poland,Polen,EU,Other EU,EU+UK
+PM,St. Pierre and Miquelon,Saint Pierre and Miquelon,North-America,Other Extra EU,Other
+PN,Pitcairn Islands,Pitcairn,Other,Other Extra EU,Other
+PR,Puerto Rico,Puerto Rico,North-America,Other Extra EU,Other
+PS,Palestina,Palestina,Other,Other Extra EU,Other
+PS-WBK,West Bank,Vestbredden,Other,,Other
+PT,Portugal,Portugal,EU,Portugal,EU+UK
+PW,PALAU,,Oceania,Other Extra EU,Other
+PY,Paraguay,Paraguay,South-America,Other Extra EU,Other
+QA,Qatar,Qatar,Asia,Other Extra EU,Other
+QO,Other Oceania  N.E.S.,Other Oceania  N.E.S.,,,
+QV,Unknown country EU,Uopplyst EU land,EU,Other EU,EU+UK
+QW,Unknown country,Ukjent land,Other,Other Extra EU,Other
+RE,Reunion,Reunion,Africa,Other Extra EU,Other
+RO,Romania,Romania,EU,Other EU,EU+UK
+RS,Serbia,Serbia,Other Europe,Other Extra EU,Other
+RU,Russia,Russland,Other Europe,Russia,Russia
+RW,Rwanda,Rwanda,Africa,Other Extra EU,Other
+SA,Saudi Arabia,Saudi-Arabia,Asia,Other Extra EU,Other
+SB,SOLOMON ISLANDS,Salomonøyene,Oceania,Other Extra EU,Other
+SC,Seychelles,Seychellene,Africa,Other Extra EU,Other
+SD,Sudan,Sudan,Africa,Other Extra EU,Other
+SE,Sweden,Sverige,EU,Other EU,EU+UK
+SEUE,Secr.Extra,Secr.Extra,Other,Other Extra EU,Other
+SEUI,Secr.Intra,Secr.Intra,EU,Other EU,Other
+SG,Singapore,Singapore,Asia,Other Extra EU,Other
+SH,St. HELENA,St. Helena,Africa,Other Extra EU,Other
+SI,Slovenia,Slovenia,EU,Other EU,EU+UK
+SJ,Svalbard and Jan Mayen Islands,Svalbard,Other,Other Extra EU,Other
+SK,Slovakia,Slovakia,EU,Other EU,EU+UK
+SL,Sierra Leone,Sierra Leone,Africa,Other Extra EU,Other
+SM,San Marino,San Marino,Other Europe,Other Extra EU,Other
+SN,Senegal,Senegal,Africa,Other Extra EU,Other
+SO,Somalia,Somalia,Africa,Other Extra EU,Other
+SR,Suriname,Surinam,South-America,Other Extra EU,Other
+SS,South Sudan,Sør Sudan,Other,,Other
+ST,Sao Tome and Principe,Sao Tome Prince,Africa,Other Extra EU,Other
+SU,Sovjet/USSR,Sovjet,Other,Other Extra EU,Other
+SV,El Salvador,El Salvador,North-America,Other Extra EU,Other
+SX,Sint Maarten (Dutch part),Sint Maarten (Hollandsk),Other,,Other
+SY,Syria,Syria,Asia,Other Extra EU,Other
+SZ,Swaziland,Swaziland,Africa,Other Extra EU,Other
+TC,Turks and Caicos Islands,Turks Caicos,North-America,Other Extra EU,Other
+TD,Chad,Chad,Africa,Other Extra EU,Other
+TF,French Southern Territories,Fransk Sørlige Territorier,Other,Other Extra EU,Other
+TG,Togo,Togo,Africa,Other Extra EU,Other
+TH,Thailand,Thailand,Asia,Other Extra EU,Other
+TJ,Tajikistan,Tajikistan,Asia,Other Extra EU,Other
+TK,Tokelau Islands,,Other,Other Extra EU,Other
+TL,East Timor,Øst-Timor,Asia,Other Extra EU,Other
+TM,Turkmenistan,Turkmenistan,Asia,Other Extra EU,Other
+TN,Tunisia,Tunisia,Africa,Other Extra EU,Other
+TO,Tonga,Tonga,Oceania,Other Extra EU,Other
+Totalt,Total,Totalt,,,
+TR,Turkey,Tyrkia,Asia,Other Extra EU,Other
+TT,Trinidad and Tobago,Trinidad og Tobago,South-America,Other Extra EU,Other
+TV,Tuvalu,Tuvalu,Oceania,Other Extra EU,Other
+TW,Taiwan,Taiwan,Asia,Other Extra EU,Other
+TZ,Tanzania,Tanzania,Africa,Other Extra EU,Other
+UA,Ukraine,Ukraina,Other Europe,Other Extra EU,Other
+UG,Uganda,Uganda,Africa,Other Extra EU,Other
+UM,US Minor Outlaying Islands,Mindre stillhavsøyer (am.),North-America,Other Extra EU,Other
+US,USA,USA,North-America,USA,USA
+UY,Uruguay,Uruguay,South-America,Other Extra EU,Other
+UZ,Uzbekistan,Usbekistan,Asia,Other Extra EU,Other
+VA,Holy See,Vatikanet,Other Europe,Other Extra EU,Other
+VC,St. Vincent and Grenadines,St. Vicent og Grenadinene,North-America,Other Extra EU,Other
+VE,Venezuela,Venezuela,South-America,Other Extra EU,Other
+VG,British Virgin Islands,De britiske Jomfruoyene,North-America,Other Extra EU,Other
+VI,US Virgin Islands,De amerikanske Jomfruoyene,North-America,Other Extra EU,Other
+VN,Vietnam,Vietnam,Asia,Other Extra EU,Other
+VU,Vanuatu,Vanuatu,Oceania,Other Extra EU,Other
+WF,Wallis and Futuna Islands,Wallis- og Futunaøyen,Other,Other Extra EU,Other
+WS,SAMOA,Samoa,Oceania,Other Extra EU,Other
+XB,Canary Islands,Kanariøyene,EU,Other EU,EU+UK
+XC,Azores,Azorene,EU,Other EU,EU+UK
+XD,Belgium/Luxembourg,Belgia/Luxembourg,EU,Other EU,EU+UK
+XE,Germany West,Tyskland Vest,EU,Germany,EU+UK
+XI,Northern Ireland,Nord-Irland,EU,Other EU,EU+UK
+XK,Kosovo,Kosovo,Other Europe,Other Extra EU,Other
+XM,Melilla,Melilla,EU,Other EU,EU+UK
+XU,United Kingdom (ex Northern Ireland),Storbritannia (unntatt Nord Irland),Other Europe,United Kingdom,EU+UK
+YE,Yemen,Yemen,Asia,Other Extra EU,Other
+YG,Yugoslavia,Jugoslavia,Other Europe,Other Extra EU,Other
+YT,Mayotte,Mayotte,Africa,Other Extra EU,Other
+YU,Yugoslavia SFR,Yoguslavia SFR,Other Europe,Other Extra EU,Other
+ZA,South Africa,Sør-Afrika,Africa,Other Extra EU,Other
+ZM,Zambia,Zambia,Africa,Other Extra EU,Other
+ZW,Zimbabwe,Zimbabwe,Africa,Other Extra EU,Other
+ZZ,Unknown country,Ukjent land,Other,Other Extra EU,Other
+ZZX,Ships & Aircraft Stores,Ships & Aircraft Stores,,,

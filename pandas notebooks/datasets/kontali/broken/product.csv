@@ -1,0 +1,32 @@
+ProductID,Country_Code,Product_Code,Product_Description_KA,Species_Code,Presentation,Preservation,Preparation
+1,NO,03031100,Frozen sockeye,SOC,,FRO,
+2,NO,03045202,Fresh trout, else,TRR,OTH,FRE,
+3,NO,03054100,Smoked salmon,SAL,,PRS,SMO
+4,NO,16041101,Brine cured salmon,SAL,OTH,PRS,BRI
+5,NO,16041102,Salmon in airtight package,SAL,OTH,PRS,BRI
+6,NO,16041109,Canned salmon, else,SAL,OTH,PRS,BRI
+7,NO,03021190,Fresh trout, not farmed,TRO,,FRE,
+8,NO,03049903,Frozen salmon, minced fishmeat,SAL,OTH,FRO,
+9,NO,03021111,Fresh trout (head on),TRR,WHL,FRE,
+10,NO,03021119,Fresh trout (head off),TRR,WHL,FRE,
+11,NO,03021300,Fresh Pacific Salmon,ORC,WHL,FRE,
+12,NO,03021411,Fresh Atlantic salmon (head on),SAL,WHL,FRE,
+13,NO,03021419,Fresh Atlantic salmon (head off),SAL,WHL,FRE,
+14,NO,03021490,Fresh salmon, else,SAL,WHL,FRE,
+15,NO,03054300,Smoked Trout,TRR,,PRS,SMO
+16,NO,03031311,Frozen Atlantic salmon (head on),SAL,WHL,FRO,
+17,NO,03031319,Frozen Atlantic salmon (head off),SAL,WHL,FRO,
+18,NO,03031411,Frozen trout (head on),TRR,WHL,FRO,
+19,NO,03031419,Frozen trout (head off),TRR,WHL,FRO,
+20,NO,03031490,Frozen trout, else, not farmed,TRO,WHL,FRO,
+21,NO,03044100,Fresh salmon fillets,SAL,FIL,FRE,
+22,NO,03044200,Fresh trout fillets,TRR,FIL,FRE,
+23,NO,03045200,Fresh salmonidae, else,SAL,OTH,FRE,
+24,NO,03048100,Frozen salmon fillets,SAL,FIL,FRO,
+25,NO,03048200,Frozen trout fillets,TRR,FIL,FRO,
+26,NO,03039901,Biproduct of Frozen Atlantic salmon,SAL,BYP,FRO,
+27,NO,03019100,Live, trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus   chrysogaster)                     ,TRR,,ALI,
+28,NO,03019901,Salmon (alevin, parr, smolt etc.), live ,SAL,,ALI,
+29,NO,03019906,Live, Arctic char (Salvelinus alpinus),ACH,,ALI,
+30,NO,03021901,Fresh or chilled, char (Salvelinus spp.), excluding edible fish offal of subheadings 03029100 to 03029909,ACH,WHL,FRE,
+287,NO,03049991,Frozen salmon, minced fishmeat,SAL,OTH,FRO,
