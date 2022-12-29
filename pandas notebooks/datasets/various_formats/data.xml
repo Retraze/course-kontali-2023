@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <name>Julia</name>
+    <age>45</age>
+  </row>
+  <row>
+    <index>1</index>
+    <name>Bob</name>
+    <age>61</age>
+  </row>
+  <row>
+    <index>2</index>
+    <name>Nancy</name>
+    <age>24</age>
+  </row>
+</data>
