@@ -20,10 +20,8 @@ df_ssb = pd.read_csv(dirpath / "ssb_export.csv",
 
 
 # missing data
-df_nan = pd.DataFrame(np.random.randn(10, 3), columns=list("ABC"))
 
-df_nan.iloc[3:5, 0] = np.nan
-
+df_nan = pd.DataFrame(np.random.randn(10, 3), columns=list("xyz"))
+df_nan.iloc[2:4, 0] = np.nan
 df_nan.iloc[4:6, 1] = np.nan
-
 df_nan.iloc[5:8, 2] = np.nan
